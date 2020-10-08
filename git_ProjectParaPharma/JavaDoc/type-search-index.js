@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.parapharma.analytics","l":"AnalyticsCounter"},{"p":"com.parapharma.analytics","l":"ISymptomReader"},{"p":"com.parapharma.analytics","l":"ISymptomWriter"}]
